@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /privateData/
+
+Sitemap: https://leesongho.github.io/sitemap.xml

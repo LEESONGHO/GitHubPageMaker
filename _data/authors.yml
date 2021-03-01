@@ -1,0 +1,12 @@
+# 저자별로 글 나누기
+LEESONGHO :
+  username: LEESONGHO       # user name : martin
+  name: LEESONGHO           # user full name : Martin Luther King
+  url_full:                 # Homepage url
+  url:
+  bio: <a href="https://www.instagram.com/dlrm741/">Instagram, LEESONGHO, dlrm741, Engineer</a>
+  # 회사정보 (예시)
+  picture: assets/built/images/songho-pic.png   # author image
+  facebook: songho.lee.54            # facebook ID
+  twitter:              # twitter ID
+  cover: False

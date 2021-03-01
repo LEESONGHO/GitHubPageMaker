@@ -1,0 +1,21 @@
+# 주제별로 글 나누기
+python :
+  name: python
+  description: False
+  cover: assets/built/images/coverimg-songho.jpg
+book :
+  name: book
+  description: False
+  cover: assets/built/images/coverimg-songho.jpg
+laboratory :
+  name: laboratory
+  description: False
+  cover: assets/built/images/coverimg-songho.jpg
+teamcad :
+  name: teamcad
+  description: False
+  cover: assets/built/images/coverimg-songho.jpg
+etc :
+  name: etc
+  description: False
+  cover: assets/built/images/coverimg-songho.jpg
